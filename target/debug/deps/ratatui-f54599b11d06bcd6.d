@@ -1,0 +1,10 @@
+/home/Raddarin/devR/Rust/bokfor/target/debug/deps/ratatui-f54599b11d06bcd6.d: /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/lib.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/prelude.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/widgets.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/widgets/stateful_widget_ref.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/widgets/widget_ref.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/init.rs
+
+/home/Raddarin/devR/Rust/bokfor/target/debug/deps/libratatui-f54599b11d06bcd6.rmeta: /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/lib.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/prelude.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/widgets.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/widgets/stateful_widget_ref.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/widgets/widget_ref.rs /home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/init.rs
+
+/home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/lib.rs:
+/home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/prelude.rs:
+/home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/widgets.rs:
+/home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/widgets/stateful_widget_ref.rs:
+/home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/widgets/widget_ref.rs:
+/home/Raddarin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.30.0/src/init.rs:
