@@ -1,1 +1,1 @@
-/home/Raddarin/devR/Rust/bokfor/target/debug/bokfor: /home/Raddarin/devR/Rust/bokfor/src/main.rs
+/home/Raddarin/devR/bokfor/target/debug/bokfor: /home/Raddarin/devR/bokfor/src/main.rs
